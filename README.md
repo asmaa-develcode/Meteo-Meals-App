@@ -9,7 +9,8 @@ Among all the goals of building this app: showing frontend developing skills,goo
 - Javascript
 - HTML
 - CSS
-  In addition of the pages used to get the icons and pictures :
+  
+In addition of the pages used to get the icons and pictures :
   - [FREEPIK ](ww.freepik.com)
   - [PEXELS ](www.pexels.com)
 
